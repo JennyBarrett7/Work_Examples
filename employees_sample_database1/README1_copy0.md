@@ -5,5 +5,5 @@
 5. Run command in test_db: mysql < employees.sql
 6. After that finishes running, run command in test_db: mysql -t < test_employees_md5.sql
 
-I ran several queries using the db. At times I ran different queries to achieve the identical results. 
+I ran several queries using the db. At times I ran different queries and achieved identical results. 
  
